@@ -1,4 +1,4 @@
-Überblick
+Überblick.
 
 Diese Audit-Log-Datei enthält Informationen über die Aktivitäten von Spielern auf einem Minetest-Server. Die Datei wird automatisch aktualisiert, wenn ein Spieler den Server betritt oder verlässt.
 
